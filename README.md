@@ -50,7 +50,7 @@
 ## 트랜지스터 심볼
 ![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/6e8db364-d40a-494e-9461-0687cc7374ec)
 ## 안테나 심볼
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/7bdde9a3-fa57-448c-aad5-a3b29374b85f)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/560e92ed-b028-4d56-bc56-7cce746099f4)
 ## 논리 게이트 심볼
 ![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/75e96ed8-4cb4-4419-a1d8-662300f8b684)
 ## 기타 심볼들
