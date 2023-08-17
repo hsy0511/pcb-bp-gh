@@ -3,67 +3,64 @@
 1. 저항기
 - 저항기 기능 : 전류의 흐름을 제한함으로써 전기 회로를 원만하게 동작시키는 역할을 합니다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/1dbe26ae-7a8a-4413-af66-38ae2fe43508)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/d31026ad-8427-4f29-a733-c2faf00a369a)
 
 2. 커패시터
 - 커패시터 기능 : 직류 차단과 교류 통과, 축전지, 필터 등의 기능을 합니다.
 ###### ※ 축전지: 양과 음의 전극판과 전해액으로 구성되어 있어, 화학작용에 의해 직류기전력을 생기게 하여 전원으로 사용할 수 있는 장치
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/64bc4f50-72c8-49a9-b556-575b9df4855c)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/c91dedac-dd79-4b74-9e0e-ce8b1caccc43)
 
 3. 인덕터
 - 인덕터 기능 : 자기장의 형태로 자기 에너지를 저장합니다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/57931cc5-6fd9-4242-8aff-3cbb7c369bea)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/6ea283fd-c826-49f6-9b8e-5f9471f0c993)
 
 4. 전위차계
 - 전위차계 기능 : 저항을 조절하기 위해 전위차계는 전압 분배기로 작동하여 저항 값을 제어하여 전압 출력을 낮추거나 증가시킵니다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/ad2dcfe0-24ce-435f-9ef8-85b07b3fa5a2)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/ba276709-53e4-4e82-9457-019ef516c97c)
 
 5. 트랜스포머
 - 트랜스포머 기능 : 유도성 전기 전도체를 통해 두 개 이상의 회로 사이에서 전기 에너지를 전달합니다.
-
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/f58ba8e0-ea1d-4a46-98ef-1f4353592899)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/538ba4ed-743a-4469-baf8-ed04ade42491)
 
 6. 다이오드
 - 다이오드 기능 : 한 방향으로만 전류가 흐르도록합니다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/e067d1c2-870c-4431-b5e3-58ecd6a0c4f6)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/afc288ab-b0e0-4666-b12f-8a9509c105f4)
 
 7. 트랜지스터
 - 트랜지스터 기능 : 전기 신호를 증폭하거나 스위칭하는 기능을 가지고 있습니다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/82a58c11-b5f2-463e-8310-58bfdb29ba9d)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/594266bd-4afd-4ce9-9d1d-84fa37805766)
 
 8. 사이리스터
 - 실리콘 제어 정류기 기능 : 애노드(양극)와 캐소드(음극) 간의 도통상태를 제어할 수 있다.
 ###### ※ 도통상태: 다이오드, 트랜지스터, 사이리스터 따위의 반도체 스위칭 소자가 켜져 전류가 흐르는 상태.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/b184b123-e5cc-43d5-81a4-d0ac2d5c8ad6)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/0e058e3e-f70b-48e9-aa1d-766e4338d47f)
 
 9. 집적 회로
 - 집적 회로 기능 : 증폭기, 정류기, 발진기, 카운터, 타이머 및 메모리로서 기능합니다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/63f6014b-ac6a-4b08-a9c7-fb599be3f0f3)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/d36eca70-9c65-425a-88a6-f7ba7e221ba5)
 
 10. 수정 발진기
 - 수정 발진기 기능 : 외부 환경 변화에 대해서 안정된 주파수를 얻을 수 있다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/0602fc69-e6b7-4124-8381-1603cbbfdb5d)
+D![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/a2788e16-9280-48aa-9ea1-3fbcd3ae1471)
 
 11. 스위치 및 릴레이
 - 스위치 기능: 개방 회로 또는 폐쇄 회로를 전환하여 회로의 전류 흐름을 제어한다. 
 - 릴레이 기능: 스위치 역할을 하며 작은 전류를 큰 전류로 증폭 시킬 수 있습니다. 
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/9ec354c1-2daf-4c1f-b22e-203aeb1a061d)
-
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/b11148ba-7d54-438e-ad2b-e1572281895a)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/f08f5dd0-c6dc-4530-b6e4-5baa815d0705)
 
 12. 센서
-  - 센서 기능: 환경 조건의 변화를 감지하고 그 변화에 해당하는 전기 신호를 생성하여 회로의 다른 전자 부품으로 보냅니다.
+- 센서 기능: 환경 조건의 변화를 감지하고 그 변화에 해당하는 전기 신호를 생성하여 회로의 다른 전자 부품으로 보냅니다.
 
-![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/9a55c316-0afa-4f93-a9a0-ae8262fa39dd)
+![image](https://github.com/hsy0511/pcb-bp-simbol/assets/104752580/92b3ed43-814e-4958-9962-f8dec81e2033)
 
 # 전자회로에 사용되는 심볼
 ## 와이어 심볼
